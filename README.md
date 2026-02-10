@@ -6,7 +6,7 @@ Currently exploring: AI integration, backend development, data analysis, and NLP
 
 ## Technical Background
 
-**Languages:** Java, Python, C++, HTML, JavaScript and TypeScript
+**Languages:** Java, Python, C++, HTML, JavaScript and TypeScript   
 **Tools & Frameworks:** Git, Streamlit, OpenMP, PostgreSQL, Hadoop  
 **Areas of Focus:** Object-oriented design, web-related projects API integration, parallel computing, natural language processing, GUI development
 
