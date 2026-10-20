@@ -1,22 +1,25 @@
 # Hi, I'm Roxana (˵ •̀ ᴗ - ˵ ) ✧
 
-Software Engineering student based in Germany (originally from Kazakhstan) working on projects that combine technical problem-solving with creative applications.
+I'm a **Software Engineering BSc student based in Berlin**, working across backend automation, API integrations, product development and creative technology.
 
-Currently exploring: AI integration, backend development, data analysis, and NLP — especially in contexts involving music, culture, and design.
+At **takt**, a music-tech startup, I work on internal tools and operational workflows. My recent work includes a **TypeScript / Fastify backend** integrating WhatsApp, Notion, OpenAI and scoped Supabase APIs, alongside product QA and technical documentation. I also support live-event operations and develop small web prototypes with **Bleach Berlin**.
 
-## Technical Background
+## What I work with
 
-**Languages:** Java, Python, C++, HTML, JavaScript and TypeScript   
-**Tools & Frameworks:** Git, Streamlit, OpenMP, PostgreSQL, Hadoop  
-**Areas of Focus:** Object-oriented design, web-related projects API integration, parallel computing, natural language processing, GUI development
+**Languages:** TypeScript, JavaScript (ES6+), Python, Java, SQL  
+**Backend & APIs:** Node.js, Fastify, REST APIs, webhooks, OpenAI API, Notion API, Supabase  
+**Frontend:** React, HTML, CSS, Bootstrap, Chart.js  
+**Testing & tools:** Git, Vitest, API testing, Notion, Figma
 
-## Recent Projects
+## Selected public projects
 
-- **AI Mood-Based Playlist Generator** — Streamlit app using OpenAI GPT and Spotify API to generate personalized playlists
-- **Reddit Sentiment Analysis** — NLP pipeline with VADER, PostgreSQL, and Hadoop for analyzing brand sentiment
-- **Parallel BFS Algorithm** — Performance analysis of multithreaded graph traversal with OpenMP
-- **Scientific Calculator** — Java Swing application with advanced mathematical functions
-- **Marketplace (Buyer/Seller) Web App** - A web marketplace where users can browse products, view product details, add items to a cart, and checkout based on TypeScript.
+- **[StockScope](https://github.com/roxanaram/stock-market-app)** — Responsive market-data web application using JavaScript, Chart.js and PHP support, with an accompanying Flutter mobile app.
+- **[Weather App](https://github.com/roxanaram/weather-app)** — JavaScript weather app integrating OpenWeather APIs, async/await, city autocomplete and persisted settings.
+- **[AI Mood Playlist](https://github.com/roxanaram/AI-Mood-Playlist)** — Python / Streamlit app integrating OpenAI and Spotify to recommend songs based on a written mood description.
+- **[Reddit Sentiment Analysis](https://github.com/roxanaram/reddit-sentiment-analysis)** — Python NLP project analysing Reddit discussions with VADER and SQL-based analysis.
+- **[Parallel BFS with OpenMP](https://github.com/roxanaram/parallel-bfs-openmp)** — Parallel graph traversal coursework using C++ and OpenMP.
+
+Some of my recent production-oriented work is in private company repositories and is not publicly available.
 
 ## Get in Touch
 
