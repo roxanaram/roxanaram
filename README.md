@@ -25,7 +25,7 @@ Some of my recent production-oriented work is in private company repositories an
 
 EmaiL: roxana.ramazanova.w@gmail.com  
 LinkedIn: [linkedin.com/in/roxana](https://linkedin.com/in/roxana)  
-Based in Berlin area | Open to internships and collaborative projects
+Open to work and collaborative projects
 
 ---
 
